@@ -10,14 +10,14 @@
 <script>
 import Navbar from './components/Navbar.vue';
 import Footer from './components/Footer.vue';
-import ScrolltoTop from './components/ScrolltoTop.vue';
+import ScrollToTop from './components/ScrollToTop.vue'; // Ensure 'T' is uppercase
 
 export default {
   name: 'App',
   components: {
     Navbar,
     Footer,
-    ScrolltoTop,
+    ScrollToTop,
   },
 };
 </script>
