@@ -87,7 +87,7 @@
             <div class="mt-8">
               <h3 class="text-xl font-semibold text-primary-light mb-4">Our Location</h3>
               <div class="rounded-lg overflow-hidden shadow-lg">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7000.897498579564!2d77.19882279357908!3d28.676219999999986!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfdbc9b0c9ae5%3A0x493c9400a2d861c4!2sDr%20Lal%20Pathlabs%20-%20Patient%20Service%20Centre!5e0!3m2!1sen!2sus!4v1735680255346!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7000.897498579564!2d77.19882279357908!3d28.676219999999986!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfdbc9b0c9ae5%3A0x493c9400a2d861c4!2sDr%20Lal%20Pathlabs%20-%20Patient%20Service%20Centre!5e0!3m2!1sen!2sus!4v1735680255346!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
               </div>
             </div>
           </div>
