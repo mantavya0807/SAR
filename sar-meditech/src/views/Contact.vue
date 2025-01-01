@@ -26,7 +26,7 @@
                   type="email"
                   id="email"
                   v-model="form.email"
-                  required
+                  :required="true"
                   class="w-full px-4 py-2 border border-neutral-600 rounded-lg bg-neutral-700 text-neutral-200 focus:outline-none focus:ring-2 focus:ring-secondary"
                 />
               </div>

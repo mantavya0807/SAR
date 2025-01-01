@@ -70,9 +70,9 @@
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
             </svg>
           </button>
-          <h3 class="text-2xl font-semibold text-primary-light mb-4">{{ selectedService.title }}</h3>
+          <h3 class="text-2xl font-semibold text-primary-light mb-4">{{ selectedService?.title || '' }}</h3>
           <img :src="selectedService.image" :alt="selectedService.title" class="w-full h-48 object-cover rounded-lg mb-4" />
-          <p class="text-neutral-200">{{ selectedService.details }}</p>
+          <p class="text-neutral-200">{{ selectedService?.details || '' }}</p>
         </div>
       </div>
     </transition>
@@ -239,4 +239,3 @@
     background-color: #db2777; /* Tailwind's pink-600 */
   }
   </style>
-  

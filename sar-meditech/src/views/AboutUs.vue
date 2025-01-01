@@ -130,7 +130,20 @@
   <script lang="ts">
   import { defineComponent, ref } from 'vue';
   import ScrollToTop from '../components/ScrollToTop.vue';
-  
+  interface TeamMember {
+  name: string;
+  role: string;
+  bio?: string;
+  photo?: string;
+}
+
+interface Testimonial {
+  id?: number;
+  name: string;
+  position?: string;
+  message?: string;
+  photo?: string;
+}
   export default defineComponent({
     name: 'AboutUs',
     components: {
@@ -345,4 +358,3 @@ const testimonials = ref<Testimonial[]>([
     overflow-y: auto;
   }
   </style>
-  
