@@ -17,7 +17,7 @@
 
 <script lang="ts">
 import { defineComponent, PropType } from 'vue';
-import { Service } from '../type';
+import { Service } from '../type.ts';
 
 export default defineComponent({
   name: 'ServiceCard',
