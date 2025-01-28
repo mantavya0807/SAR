@@ -47,7 +47,5 @@ The SAR Meditech website serves as a comprehensive platform to showcase the comp
 - **State Management:** Vue's Composition API
 - **Build Tool:** [Vite](https://vitejs.dev/)
 - **Type Checking:** [TypeScript](https://www.typescriptlang.org/)
-- **Form Validation (Optional):** [VeeValidate](https://vee-validate.logaretm.com/v4/) *(if implemented)*
 
-## Project Structure
 
